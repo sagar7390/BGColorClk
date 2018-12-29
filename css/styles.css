@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+}
+#clock{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 100px;
+    position: relative;
+    margin-top: 18%;
+    text-align: center;
+    color: azure;
+}
